@@ -1,0 +1,62 @@
+[
+  {
+    "query_id": "Q1",
+    "f1_score": 0.0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "retrieved_cases": "PN0030, PN0029, PN0028, PN0027, PN0026",
+    "ground_truth": "PN0017, PN0014",
+    "potential_causes": [
+      "Kosakata query berbeda dengan dokumen referensi",
+      "Domain kasus tidak terwakili dalam data training",
+      "Representasi vektor tidak menangkap semantik kasus",
+      "Kasus baru memiliki karakteristik unik yang tidak ada dalam data lama"
+    ],
+    "suggestions": [
+      "Tambahkan sinonim pada query",
+      "Perluas dataset training dengan kasus serupa",
+      "Coba metode embedding yang berbeda",
+      "Gunakan teknik query expansion"
+    ]
+  },
+  {
+    "query_id": "Q2",
+    "f1_score": 0.0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "retrieved_cases": "PN0030, PN0029, PN0028, PN0027, PN0026",
+    "ground_truth": "PN0021, PN0007",
+    "potential_causes": [
+      "Kosakata query berbeda dengan dokumen referensi",
+      "Domain kasus tidak terwakili dalam data training",
+      "Representasi vektor tidak menangkap semantik kasus",
+      "Kasus baru memiliki karakteristik unik yang tidak ada dalam data lama"
+    ],
+    "suggestions": [
+      "Tambahkan sinonim pada query",
+      "Perluas dataset training dengan kasus serupa",
+      "Coba metode embedding yang berbeda",
+      "Gunakan teknik query expansion"
+    ]
+  },
+  {
+    "query_id": "Q4",
+    "f1_score": 0.0,
+    "precision": 0.0,
+    "recall": 0.0,
+    "retrieved_cases": "PN0030, PN0029, PN0028, PN0027, PN0026",
+    "ground_truth": "PN0021, PN0024",
+    "potential_causes": [
+      "Kosakata query berbeda dengan dokumen referensi",
+      "Domain kasus tidak terwakili dalam data training",
+      "Representasi vektor tidak menangkap semantik kasus",
+      "Kasus baru memiliki karakteristik unik yang tidak ada dalam data lama"
+    ],
+    "suggestions": [
+      "Tambahkan sinonim pada query",
+      "Perluas dataset training dengan kasus serupa",
+      "Coba metode embedding yang berbeda",
+      "Gunakan teknik query expansion"
+    ]
+  }
+]

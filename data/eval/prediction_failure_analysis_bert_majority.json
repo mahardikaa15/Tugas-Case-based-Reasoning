@@ -1,0 +1,53 @@
+[
+  {
+    "query_id": "Q2",
+    "predicted_solution": "ingmasing sebagai hakim anggota dibantu oleh taty sh panitera pengganti pada pengadilan negeri palangkaraya dan telah dikirim secara elektronik melalui sistem informasi pengadilan pada hari itu juga hakimhakim anggota hakim ketua dto dto erhammudin sh mh sumaryono sh mh dto muhammad affan sh mh panitera pengganti dto taty sh perincian biaya 1 materai rp 1000000 2 redaksi rp 1000000 3 proses rp 5000000 4 pnbp rp 9000000 5 panggilan rp 55600000 jumlah rp 71600000 tujuh ratus enam belas ribu rupiah...",
+    "ground_truth_solution": "pertimbangan hukummenimbang bahwa maksud dan tujuan gugatan penggugat padapokoknya adalah untuk menyatakan bahwa jual beli tanah berserta bangunanyang berada di atasnya yaitu rumah pada tanggal 18 agustus 2014 melaluiperjanjian jual beli adalah sah dan menjadi milik penggugat sehinggapenggugat berhak untuk melakukan peralihan hak yaitu balik nama atassertipikat hak milik nomor 13149 yang masih atas nama tergugat karenatergugat saat ini tidak diketahui lagi kedudukan dan keberadaannya namunalamat pastinya masih di wilayah republik indonesia menimbang bahwa sebelum mempertimbangkan lebih lanjut gugatanpenggugat majelis hakim terlebih dahulu akan mempertimbangkanketidakhadiran tergugat dipersidangan menimbang bahwa tergugat telah dipanggil secara sah dan patutsesuai dengan risalah panggilan sidang tanggal 08 agustus 2024 tanggal 11september 2024 melalui surat tercatat dan risalah panggilan tanggal 09 oktober2024 dan tanggal 11 november 2024 melalui panggilan umum sedangkanternyata bahwa t...",
+    "potential_causes": [
+      "Kasus referensi tidak cukup relevan",
+      "Metode agregasi solusi tidak optimal",
+      "Variasi solusi terlalu tinggi pada kasus serupa",
+      "Representasi teks tidak menangkap konteks hukum"
+    ],
+    "suggestions": [
+      "Tingkatkan jumlah kasus yang di-retrieve (k)",
+      "Coba metode agregasi berbeda (majority vs weighted)",
+      "Gunakan teknik re-ranking berbasis solusi",
+      "Terapkan fine-tuning model pada domain hukum"
+    ]
+  },
+  {
+    "query_id": "Q7",
+    "predicted_solution": "ingmasing sebagai hakim anggota dibantu oleh taty sh panitera pengganti pada pengadilan negeri palangkaraya dan telah dikirim secara elektronik melalui sistem informasi pengadilan pada hari itu juga hakimhakim anggota hakim ketua dto dto erhammudin sh mh sumaryono sh mh dto muhammad affan sh mh panitera pengganti dto taty sh perincian biaya 1 materai rp 1000000 2 redaksi rp 1000000 3 proses rp 5000000 4 pnbp rp 9000000 5 panggilan rp 55600000 jumlah rp 71600000 tujuh ratus enam belas ribu rupiah...",
+    "ground_truth_solution": "pertimbangan hukummenimbang bahwa maksud dan tujuan gugatan penggugat padapokoknya adalah menyatakan para tergugat melakukan wanprestasi danagar jual beli tanah seluas 937m2 sembilan ratus tiga puluh tujuh meterpersegi yang dilakukan oleh penggugat dengan para tergugat dinyatakansah sehingga penggugat dapat melakukan pengurusan balik nama sertifikathak milik no 2137 dengan gambar situasi nomor 9301992 yang terletak dikomplek pepabri blok 118diii kelurahan panarung kecamatan pahandutkota palangka raya provinsi kalimantan tengah menjadi atas namapenggugatmenimbang bahwa sebelum mempertimbangkan lebih lanjut gugatanpenggugat majelis hakim terlebih dahulu akan mempertimbangkanketidakhadiran tergugat dipersidangan menimbang bahwa oleh karena jangka waktu dan formalitas panggilanmenurut hukum telah dilaksanakan secara sah dan patut maka para tergugatyang tidak datang menghadap di persidangan dan tidak menyuruh orang lainmenghadap sebagai kuasanya harus dinyatakan tidak hadir dan oleh karena ...",
+    "potential_causes": [
+      "Kasus referensi tidak cukup relevan",
+      "Metode agregasi solusi tidak optimal",
+      "Variasi solusi terlalu tinggi pada kasus serupa",
+      "Representasi teks tidak menangkap konteks hukum"
+    ],
+    "suggestions": [
+      "Tingkatkan jumlah kasus yang di-retrieve (k)",
+      "Coba metode agregasi berbeda (majority vs weighted)",
+      "Gunakan teknik re-ranking berbasis solusi",
+      "Terapkan fine-tuning model pada domain hukum"
+    ]
+  },
+  {
+    "query_id": "Q10",
+    "predicted_solution": "ingmasing sebagai hakim anggota dibantu oleh taty sh panitera pengganti pada pengadilan negeri palangkaraya dan telah dikirim secara elektronik melalui sistem informasi pengadilan pada hari itu juga hakimhakim anggota hakim ketua dto dto erhammudin sh mh sumaryono sh mh dto muhammad affan sh mh panitera pengganti dto taty sh perincian biaya 1 materai rp 1000000 2 redaksi rp 1000000 3 proses rp 5000000 4 pnbp rp 9000000 5 panggilan rp 55600000 jumlah rp 71600000 tujuh ratus enam belas ribu rupiah...",
+    "ground_truth_solution": "pertimbangan hukummenimbang bahwa maksud dan tujuan gugatan penggugat ipenggugat ii penggugat iii dan penggugat iv pada pokoknya sebagai manatersebut di atasdalam eksepsi menimbang bahwa atas gugatan penggugat i penggugat iipenggugat iii dan penggugat iv tergugat i telah mengajukan eksepsi yangpada pokoknya adalah sebagai berikut 1gugatan salah gugat  error in personadalam gugatan yang diajukan oleh penggugat tidak menunjukan dasarhukum yang kuat untuk melakukan gugatan terhadap tergugat i serta tidakditemukan alasan yang jelas terkait ikut serta tergugat i atas gugatan yangdiajukan oleh penggugat yang mana penggugat medalilkan bahwaperbuatan tergugat i yang tidak  belum turun petunjuk dan penyelesaianyang tuntas atas obyek gugatan berupa tanah milik penggugat yangterkena kaplingan pebabri merupakan perbuatan melawan hukumadapun alasan tergugat i yaitu sebagaimana diketahui tergugat i adalahkepala pemerintahan adalah sebagai kepala daerah provinsi kalimantantengah yang merupakan wakil ...",
+    "potential_causes": [
+      "Kasus referensi tidak cukup relevan",
+      "Metode agregasi solusi tidak optimal",
+      "Variasi solusi terlalu tinggi pada kasus serupa",
+      "Representasi teks tidak menangkap konteks hukum"
+    ],
+    "suggestions": [
+      "Tingkatkan jumlah kasus yang di-retrieve (k)",
+      "Coba metode agregasi berbeda (majority vs weighted)",
+      "Gunakan teknik re-ranking berbasis solusi",
+      "Terapkan fine-tuning model pada domain hukum"
+    ]
+  }
+]

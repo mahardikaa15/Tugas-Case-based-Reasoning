@@ -1,0 +1,72 @@
+[
+  {
+    "query_id": "Q1",
+    "query_text": "Kasus pencurian dengan kekerasan oleh kelompok bersenjata",
+    "predicted_solution_majority": "Tidak ada kasus serupa yang ditemukan",
+    "predicted_solution_weighted": "Tidak ada kasus serupa yang ditemukan",
+    "top_k_cases": []
+  },
+  {
+    "query_id": "Q2",
+    "query_text": "Perkara perdata tentang wanprestasi dalam kontrak konstruksi",
+    "predicted_solution_majority": "Tidak ada kasus serupa yang ditemukan",
+    "predicted_solution_weighted": "Tidak ada kasus serupa yang ditemukan",
+    "top_k_cases": []
+  },
+  {
+    "query_id": "Q3",
+    "query_text": "Pidana narkotika jenis sabu dengan jumlah besar",
+    "predicted_solution_majority": "Tidak ada kasus serupa yang ditemukan",
+    "predicted_solution_weighted": "Tidak ada kasus serupa yang ditemukan",
+    "top_k_cases": []
+  },
+  {
+    "query_id": "Q4",
+    "query_text": "Sengketa tanah warisan antar saudara",
+    "predicted_solution_majority": "Tidak ada kasus serupa yang ditemukan",
+    "predicted_solution_weighted": "Tidak ada kasus serupa yang ditemukan",
+    "top_k_cases": []
+  },
+  {
+    "query_id": "Q5",
+    "query_text": "Penganiayaan berat yang mengakibatkan kematian",
+    "predicted_solution_majority": "Tidak ada kasus serupa yang ditemukan",
+    "predicted_solution_weighted": "Tidak ada kasus serupa yang ditemukan",
+    "top_k_cases": []
+  },
+  {
+    "query_id": "Q6",
+    "query_text": "Perbuatan melawan hukum oleh perusahaan terhadap konsumen",
+    "predicted_solution_majority": "Tidak ada kasus serupa yang ditemukan",
+    "predicted_solution_weighted": "Tidak ada kasus serupa yang ditemukan",
+    "top_k_cases": []
+  },
+  {
+    "query_id": "Q7",
+    "query_text": "Pencemaran nama baik melalui media sosial",
+    "predicted_solution_majority": "Tidak ada kasus serupa yang ditemukan",
+    "predicted_solution_weighted": "Tidak ada kasus serupa yang ditemukan",
+    "top_k_cases": []
+  },
+  {
+    "query_id": "Q8",
+    "query_text": "Pemalsuan dokumen untuk pengajuan kredit bank",
+    "predicted_solution_majority": "Tidak ada kasus serupa yang ditemukan",
+    "predicted_solution_weighted": "Tidak ada kasus serupa yang ditemukan",
+    "top_k_cases": []
+  },
+  {
+    "query_id": "Q9",
+    "query_text": "Sengketa hak asuh anak setelah perceraian",
+    "predicted_solution_majority": "Tidak ada kasus serupa yang ditemukan",
+    "predicted_solution_weighted": "Tidak ada kasus serupa yang ditemukan",
+    "top_k_cases": []
+  },
+  {
+    "query_id": "Q10",
+    "query_text": "Korupsi pengadaan barang di instansi pemerintah",
+    "predicted_solution_majority": "Tidak ada kasus serupa yang ditemukan",
+    "predicted_solution_weighted": "Tidak ada kasus serupa yang ditemukan",
+    "top_k_cases": []
+  }
+]

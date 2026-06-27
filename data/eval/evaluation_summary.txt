@@ -1,0 +1,19 @@
+=== EVALUASI SISTEM RETRIEVAL PUTUSAN PENGADILAN ===
+
+RINGKASAN METRIK RETRIEVAL:
+  method  precision  recall        f1  accuracy
+0  tfidf       0.06    0.15  0.085714       0.3
+1   bert       0.06    0.15  0.085714       0.3
+
+RINGKASAN METRIK PREDIKSI (Akurasi):
+  retrieval_method prediction_method  accuracy  count
+0             bert          majority       0.0     10
+1             bert          weighted       0.0     10
+2            tfidf          majority       0.0     10
+3            tfidf          weighted       0.0     10
+
+ANALISIS KEGAGALAN:
+- File analisis kegagalan tersedia di direktori eval dengan format:
+  - retrieval_failure_analysis_<method>.json
+  - prediction_failure_analysis_<method>_<pred_method>.json
+- Visualisasi metrik tersedia di direktori eval

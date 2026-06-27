@@ -1,0 +1,82 @@
+[
+  {
+    "query_id": "Q1",
+    "query_text": "Kasus pencurian dengan kekerasan oleh kelompok bersenjata",
+    "relevant_cases": [
+      "DUMMY001",
+      "DUMMY002"
+    ]
+  },
+  {
+    "query_id": "Q2",
+    "query_text": "Perkara perdata tentang wanprestasi dalam kontrak konstruksi",
+    "relevant_cases": [
+      "DUMMY003",
+      "DUMMY004"
+    ]
+  },
+  {
+    "query_id": "Q3",
+    "query_text": "Pidana narkotika jenis sabu dengan jumlah besar",
+    "relevant_cases": [
+      "DUMMY005",
+      "DUMMY006"
+    ]
+  },
+  {
+    "query_id": "Q4",
+    "query_text": "Sengketa tanah warisan antar saudara",
+    "relevant_cases": [
+      "DUMMY007",
+      "DUMMY008"
+    ]
+  },
+  {
+    "query_id": "Q5",
+    "query_text": "Penganiayaan berat yang mengakibatkan kematian",
+    "relevant_cases": [
+      "DUMMY009",
+      "DUMMY010"
+    ]
+  },
+  {
+    "query_id": "Q6",
+    "query_text": "Perbuatan melawan hukum oleh perusahaan terhadap konsumen",
+    "relevant_cases": [
+      "DUMMY011",
+      "DUMMY012"
+    ]
+  },
+  {
+    "query_id": "Q7",
+    "query_text": "Pencemaran nama baik melalui media sosial",
+    "relevant_cases": [
+      "DUMMY013",
+      "DUMMY014"
+    ]
+  },
+  {
+    "query_id": "Q8",
+    "query_text": "Pemalsuan dokumen untuk pengajuan kredit bank",
+    "relevant_cases": [
+      "DUMMY015",
+      "DUMMY016"
+    ]
+  },
+  {
+    "query_id": "Q9",
+    "query_text": "Sengketa hak asuh anak setelah perceraian",
+    "relevant_cases": [
+      "DUMMY017",
+      "DUMMY018"
+    ]
+  },
+  {
+    "query_id": "Q10",
+    "query_text": "Korupsi pengadaan barang di instansi pemerintah",
+    "relevant_cases": [
+      "DUMMY019",
+      "DUMMY020"
+    ]
+  }
+]

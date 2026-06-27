@@ -1,0 +1,53 @@
+[
+  {
+    "query_id": "Q5",
+    "predicted_solution": "ingmasing sebagai hakim anggota dibantu oleh taty sh panitera pengganti pada pengadilan negeri palangkaraya dan telah dikirim secara elektronik melalui sistem informasi pengadilan pada hari itu juga hakimhakim anggota hakim ketua dto dto erhammudin sh mh sumaryono sh mh dto muhammad affan sh mh panitera pengganti dto taty sh perincian biaya 1 materai rp 1000000 2 redaksi rp 1000000 3 proses rp 5000000 4 pnbp rp 9000000 5 panggilan rp 55600000 jumlah rp 71600000 tujuh ratus enam belas ribu rupiah...",
+    "ground_truth_solution": "pertimbangan hukummenimbang bahwa maksud dan tujuan gugatan penggugat pada pokoknyaadalah menyatakan jual beli sebidang tanah dan bangunan yang terletak di jalan gobos 16 gang bandar 3 kelurahan menteng kecamatan jekan raya kotapalangka raya provinsi kalimantan tengah dengan luas 198 seratus sembilan puluhdelapan ratus meter persegi dengan alas hak berupa sertipikat hak milik no 17122tanggal 30 mei 2021 dengan surat ukur nomor 19193menteng2019 tanggal 30 mei2021 atas nama daniel bastian edy antara penggugat dan tergugat adalah sahmenurut hukum sehingga penggugat dapat melakukan pengurusan balik namapemegang hak dalam sertipikat hak milik no 17122 tanggal 30 mei 2021 dengansurat ukur nomor 19193menteng2019 tanggal 30 mei 2021 atas tanah danhalaman 9 dari 21...",
+    "potential_causes": [
+      "Kasus referensi tidak cukup relevan",
+      "Metode agregasi solusi tidak optimal",
+      "Variasi solusi terlalu tinggi pada kasus serupa",
+      "Representasi teks tidak menangkap konteks hukum"
+    ],
+    "suggestions": [
+      "Tingkatkan jumlah kasus yang di-retrieve (k)",
+      "Coba metode agregasi berbeda (majority vs weighted)",
+      "Gunakan teknik re-ranking berbasis solusi",
+      "Terapkan fine-tuning model pada domain hukum"
+    ]
+  },
+  {
+    "query_id": "Q10",
+    "predicted_solution": "ingmasing sebagai hakim anggota dibantu oleh taty sh panitera pengganti pada pengadilan negeri palangkaraya dan telah dikirim secara elektronik melalui sistem informasi pengadilan pada hari itu juga hakimhakim anggota hakim ketua dto dto erhammudin sh mh sumaryono sh mh dto muhammad affan sh mh panitera pengganti dto taty sh perincian biaya 1 materai rp 1000000 2 redaksi rp 1000000 3 proses rp 5000000 4 pnbp rp 9000000 5 panggilan rp 55600000 jumlah rp 71600000 tujuh ratus enam belas ribu rupiah...",
+    "ground_truth_solution": "pertimbangan hukummenimbang bahwa maksud dan tujuan gugatan penggugat ipenggugat ii penggugat iii dan penggugat iv pada pokoknya sebagai manatersebut di atasdalam eksepsi menimbang bahwa atas gugatan penggugat i penggugat iipenggugat iii dan penggugat iv tergugat i telah mengajukan eksepsi yangpada pokoknya adalah sebagai berikut 1gugatan salah gugat  error in personadalam gugatan yang diajukan oleh penggugat tidak menunjukan dasarhukum yang kuat untuk melakukan gugatan terhadap tergugat i serta tidakditemukan alasan yang jelas terkait ikut serta tergugat i atas gugatan yangdiajukan oleh penggugat yang mana penggugat medalilkan bahwaperbuatan tergugat i yang tidak  belum turun petunjuk dan penyelesaianyang tuntas atas obyek gugatan berupa tanah milik penggugat yangterkena kaplingan pebabri merupakan perbuatan melawan hukumadapun alasan tergugat i yaitu sebagaimana diketahui tergugat i adalahkepala pemerintahan adalah sebagai kepala daerah provinsi kalimantantengah yang merupakan wakil ...",
+    "potential_causes": [
+      "Kasus referensi tidak cukup relevan",
+      "Metode agregasi solusi tidak optimal",
+      "Variasi solusi terlalu tinggi pada kasus serupa",
+      "Representasi teks tidak menangkap konteks hukum"
+    ],
+    "suggestions": [
+      "Tingkatkan jumlah kasus yang di-retrieve (k)",
+      "Coba metode agregasi berbeda (majority vs weighted)",
+      "Gunakan teknik re-ranking berbasis solusi",
+      "Terapkan fine-tuning model pada domain hukum"
+    ]
+  },
+  {
+    "query_id": "Q7",
+    "predicted_solution": "ingmasing sebagai hakim anggota dibantu oleh taty sh panitera pengganti pada pengadilan negeri palangkaraya dan telah dikirim secara elektronik melalui sistem informasi pengadilan pada hari itu juga hakimhakim anggota hakim ketua dto dto erhammudin sh mh sumaryono sh mh dto muhammad affan sh mh panitera pengganti dto taty sh perincian biaya 1 materai rp 1000000 2 redaksi rp 1000000 3 proses rp 5000000 4 pnbp rp 9000000 5 panggilan rp 55600000 jumlah rp 71600000 tujuh ratus enam belas ribu rupiah...",
+    "ground_truth_solution": "pertimbangan hukummenimbang bahwa maksud dan tujuan gugatan penggugat padapokoknya adalah menyatakan para tergugat melakukan wanprestasi danagar jual beli tanah seluas 937m2 sembilan ratus tiga puluh tujuh meterpersegi yang dilakukan oleh penggugat dengan para tergugat dinyatakansah sehingga penggugat dapat melakukan pengurusan balik nama sertifikathak milik no 2137 dengan gambar situasi nomor 9301992 yang terletak dikomplek pepabri blok 118diii kelurahan panarung kecamatan pahandutkota palangka raya provinsi kalimantan tengah menjadi atas namapenggugatmenimbang bahwa sebelum mempertimbangkan lebih lanjut gugatanpenggugat majelis hakim terlebih dahulu akan mempertimbangkanketidakhadiran tergugat dipersidangan menimbang bahwa oleh karena jangka waktu dan formalitas panggilanmenurut hukum telah dilaksanakan secara sah dan patut maka para tergugatyang tidak datang menghadap di persidangan dan tidak menyuruh orang lainmenghadap sebagai kuasanya harus dinyatakan tidak hadir dan oleh karena ...",
+    "potential_causes": [
+      "Kasus referensi tidak cukup relevan",
+      "Metode agregasi solusi tidak optimal",
+      "Variasi solusi terlalu tinggi pada kasus serupa",
+      "Representasi teks tidak menangkap konteks hukum"
+    ],
+    "suggestions": [
+      "Tingkatkan jumlah kasus yang di-retrieve (k)",
+      "Coba metode agregasi berbeda (majority vs weighted)",
+      "Gunakan teknik re-ranking berbasis solusi",
+      "Terapkan fine-tuning model pada domain hukum"
+    ]
+  }
+]

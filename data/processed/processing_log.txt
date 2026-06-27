@@ -1,0 +1,20 @@
+LOG PROSES EKSTRAKSI PUTUSAN PENGADILAN
+Dimulai pada: 2025-06-27 14:14:19
+==================================================
+Total file ditemukan: 30
+Detail file:
+  1. case_001.txt
+  2. case_002.txt
+  3. case_003.txt
+  4. case_004.txt
+  5. case_005.txt
+  ... dan 25 file lainnya
+
+==================================================
+Selesai pada: 2025-06-27 14:14:20
+Total file diproses : 30
+File berhasil       : 30
+File gagal          : 0
+Waktu total         : 0.81 detik
+Checksum data       : 08d1f72d95c3aec4f6c205f6857ce1e6
+==================================================

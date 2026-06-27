@@ -1,0 +1,11 @@
+query_id,query_text,predicted_solution_majority,predicted_solution_weighted,top_k_cases
+Q1,Kasus pencurian dengan kekerasan oleh kelompok bersenjata,Tidak ada kasus serupa yang ditemukan,Tidak ada kasus serupa yang ditemukan,
+Q2,Perkara perdata tentang wanprestasi dalam kontrak konstruksi,Tidak ada kasus serupa yang ditemukan,Tidak ada kasus serupa yang ditemukan,
+Q3,Pidana narkotika jenis sabu dengan jumlah besar,Tidak ada kasus serupa yang ditemukan,Tidak ada kasus serupa yang ditemukan,
+Q4,Sengketa tanah warisan antar saudara,Tidak ada kasus serupa yang ditemukan,Tidak ada kasus serupa yang ditemukan,
+Q5,Penganiayaan berat yang mengakibatkan kematian,Tidak ada kasus serupa yang ditemukan,Tidak ada kasus serupa yang ditemukan,
+Q6,Perbuatan melawan hukum oleh perusahaan terhadap konsumen,Tidak ada kasus serupa yang ditemukan,Tidak ada kasus serupa yang ditemukan,
+Q7,Pencemaran nama baik melalui media sosial,Tidak ada kasus serupa yang ditemukan,Tidak ada kasus serupa yang ditemukan,
+Q8,Pemalsuan dokumen untuk pengajuan kredit bank,Tidak ada kasus serupa yang ditemukan,Tidak ada kasus serupa yang ditemukan,
+Q9,Sengketa hak asuh anak setelah perceraian,Tidak ada kasus serupa yang ditemukan,Tidak ada kasus serupa yang ditemukan,
+Q10,Korupsi pengadaan barang di instansi pemerintah,Tidak ada kasus serupa yang ditemukan,Tidak ada kasus serupa yang ditemukan,

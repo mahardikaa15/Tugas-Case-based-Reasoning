@@ -1,0 +1,52 @@
+[
+  {
+    "query_id": "Q1",
+    "query_text": "Kasus pencurian dengan kekerasan oleh kelompok bersenjata",
+    "relevant_cases": []
+  },
+  {
+    "query_id": "Q2",
+    "query_text": "Perkara perdata tentang wanprestasi dalam kontrak konstruksi",
+    "relevant_cases": []
+  },
+  {
+    "query_id": "Q3",
+    "query_text": "Pidana narkotika jenis sabu dengan jumlah besar",
+    "relevant_cases": []
+  },
+  {
+    "query_id": "Q4",
+    "query_text": "Sengketa tanah warisan antar saudara",
+    "relevant_cases": []
+  },
+  {
+    "query_id": "Q5",
+    "query_text": "Penganiayaan berat yang mengakibatkan kematian",
+    "relevant_cases": []
+  },
+  {
+    "query_id": "Q6",
+    "query_text": "Perbuatan melawan hukum oleh perusahaan terhadap konsumen",
+    "relevant_cases": []
+  },
+  {
+    "query_id": "Q7",
+    "query_text": "Pencemaran nama baik melalui media sosial",
+    "relevant_cases": []
+  },
+  {
+    "query_id": "Q8",
+    "query_text": "Pemalsuan dokumen untuk pengajuan kredit bank",
+    "relevant_cases": []
+  },
+  {
+    "query_id": "Q9",
+    "query_text": "Sengketa hak asuh anak setelah perceraian",
+    "relevant_cases": []
+  },
+  {
+    "query_id": "Q10",
+    "query_text": "Korupsi pengadaan barang di instansi pemerintah",
+    "relevant_cases": []
+  }
+]
