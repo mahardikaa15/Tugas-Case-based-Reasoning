@@ -24,8 +24,9 @@ Pastikan Anda telah menginstal Python (versi 3.8 atau lebih baru) di perangkat A
 
 ## Instal Library (Requirements)
 Gunakan perintah berikut untuk menginstal semua library yang dibutuhkan:
-
+```text
 pip install -r requirements.txt
+```
 
 ## 🚀 Pipeline End-to-End
 
