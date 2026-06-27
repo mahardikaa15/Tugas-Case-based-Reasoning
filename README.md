@@ -22,7 +22,7 @@ Pastikan Anda telah menginstal Python (versi 3.8 atau lebih baru) di perangkat A
    git clone https://github.com/mahardikaa15/Tugas-Case-based-Reasoning.git
    cd Tugas-Case-based-Reasoning
 
-Instal Library (Requirements)
+## Instal Library (Requirements)
 Gunakan perintah berikut untuk menginstal semua library yang dibutuhkan:
 pip install -r requirements.txt
 
